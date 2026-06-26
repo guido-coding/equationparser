@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module EquationParser {
+	exports equationparser;
+}
