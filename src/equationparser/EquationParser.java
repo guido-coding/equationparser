@@ -10,7 +10,7 @@ import equationparser.InputCharType.CharType;
 
 public class EquationParser {
 	
-	private static final boolean suppressOutput = false;
+	public static volatile boolean suppressOutput = true;
 
 	/*
 	public static void main(String arg[]) {
